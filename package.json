@@ -1,6 +1,6 @@
 {
-  "homepage": "http://hassanatb-o.github.io/signup-form",
-  "name": "signup-page",
+  "homepage": "http://hassanatb-o.github.io/send-message",
+  "name": "send-message",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

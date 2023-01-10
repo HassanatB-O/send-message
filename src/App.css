@@ -14,11 +14,15 @@
 p{
   margin: .5rem 0;
 }
-input{
+input, textarea{
   margin: .5rem 0;
   border: none;
   background: transparent;
   width: 70%;
+}
+textarea{
+  border-bottom: 0.3px solid #000000;
+  width: 100%;
 }
 input:focus, input:active{
   outline: none;
